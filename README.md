@@ -5,4 +5,5 @@
 
 name | link 
 - - - |- - - 
-lab 01a | [lab01a](https://fatemaramadan.github.io/reading-notes/lab01a)
+lab 01a | [Mindset growth](https://fatemaramadan.github.io/reading-notes/lab01a)
+read02 |[Git information](https://fatemaramadan.github.io/reading-notes/read02)
