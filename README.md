@@ -5,4 +5,4 @@
 
 name | link 
 - - - |- - - 
-lab 01a | [lab 01a](https://fatemaramadan.github.io/reading-notes/lab01a)
+lab 01a | [lab01a](https://fatemaramadan.github.io/reading-notes/lab01a)
