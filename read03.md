@@ -82,7 +82,7 @@ Creating a simple web page
 
 
 
-<h2>Chapter 17 </h2>
+### Chapter 17 
 traditional HTMl used div to group related elemint of the page 
 the HTML5 is using words to describe the strucutre like
 
@@ -96,7 +96,7 @@ block-level elements.
 which is available free from Google.
 
 
-<h2>chapter 8</h2>
+## chapter 8
  cooments in html :  <!-- jufhiuh -->
 id attribute:It is used to
 uniquely identify that element
