@@ -8,10 +8,10 @@ how jave scripts are used
 *programm rules
 * Reacts to Events
 
-## HTML elements and CSS
+## html  elements and CSS
  ### HTML elements are added to describe the trucure ,it has an opening tag and a closing tag.attribute name , attribute value 
- ### CSS consist of indicates how the content should look like. it has a selector and declaration block  
- ### there are many inconsistenceis between broweser, thats why jQuery will help
+ ###  CSS consist of indicates how the content should look like. it has a selector and declaration block  
+ ###  there are many inconsistenceis between broweser, thats why jQuery will help
 
 
 ## what is a script?
@@ -36,5 +36,19 @@ an expression evaluate into a single value , there are 2 types of expression:
 1. assign a value to variable 
 2. use 2 or more values to return a single value 
  ## operator
-- ASSIGNMENT OPERATORS
-- COMPARISON OPERATORS
+ - assignmint operator : is to assign a value to a variable 
+  ex color = `beige`;
+- comparison operator : compare 2 values and return true or false 
+  ex buy = 3> 5;\
+-arithmatic operator : perform basic math 
+  ex area = 3 *9
+- logical operator : combine expression and return true or false 
+  ex buy = (5>3) $$ (2<4);
+- string operstors :combine two strings it onley uses (+ sign )
+  ex greeting = `hi` + `molly`' it will show hi molly 
+  ex 
+- arithmatic operators 
+  ex: + * /  ++ -- % the order of excution if more than one is used is to 
+   multipication and division preformed first then addition and subtraction
+
+
