@@ -66,10 +66,10 @@
      - **seamless**, seamless can be applied to an iframe where scrollbars are not desired.
     
     
-     ### **meta data** e
+     ### **meta data** 
      - the Meta element lives inside the `<head>` element and contains information about that web page.
      - It is not visible to users, but its needed to search engines .
-     - The most common attributes are the name and content attributes, which tend to be used together. 
+     - The most common attributes are the name and content attributes, which are used together. 
        - description: This contains a description of the page.its commonley used in search engines.
        - keywords: This contains a list of commaseparated words that a usern might search on to find the page.
          In practice
@@ -83,6 +83,82 @@
 ## Chapter 17: “HTML5 Layouts".
   - traditional HTML layouts usually uses `<div>`elements to group together related elements on the page.
   - elements that form a header, an article, footer or sidebar.
+  - New HTML has elements that describe the content you eill see in them .
+  - Examples of new HTML layout are `<div> for header and <nav> for navigation , articles in <article>`.
+  - the Header and footer appear at the top and bottom of each page.
+  - the *nav* element is used to contain navigations or blocks of the page.
+  - the `<articl>` is used to contain a section of the page that could stand alone.
+  - the `<aside>` serves 2 purpose  based wether its in an `<article>` or not;
+    - if its inside `<article>`;it should contain info. important to the article but not the overall meaning.
+    - if its alone;it acts like a container that is important to the eniter page.
+  - the `section` element is used to group related content and usually each section has its own heading.
+  - the `<hgroup>` is used to contain set og one `<h1>` or more to be treated as one big heading.
+  - the `<figure> and <figcaption>` is used to contain any contect that is refrenced from the main flow.
+  - HTML5 allows web page authors to place an <a> element arounda block level element that contains child elements. 
+  - to help older broweser understand HTML% we can :
+    1. add css to the left to states which new elements should be rendered as block-level elements.
+    2. in IE9 we need se a simple JavaScript known as the HTML5 shiv or HTML5 shim.
+
+
+ ## Chapter 18: “Process and design". 
+    Why visitors come to the you site ?
+1. we have to discover underlaying motivation.
+2. discover the spacific goal for visiting the site.
+# key motivation
+- are they looking for entertainment or a spacific goal? 
+- if it is a spacific goal is it personal or profissional?
+- do they spend time as luxury or essentiol?
+# specific goals
+- do they want general or specific information?
+- are they familire with the service or need further details?
+- are they looking for sensitve time information?
+- do they want more information?
+- do they need to contact you ?
+
+# what your visitors are trying to achive ?
+you have to creat a list of reasons of why people would come to site 
+
+# after knowing who is coming to your site and why ,now we need to know the information they need or want to achive 
+- offer additional information 
+- look in each reason that make people come to your site then determine what they need 
+- prioritize levels of information
+- make sure to provide information that your audiance want .
+
+# how often people will visit your site ?
+depending on the updates you have to make 
+
+Site Map.
+creat a digram of the pages that will be used to structure the site .
+this is called site map
+to know what inforamtion you should put in pages use Card Sorting; 
+its like putting certin information to a pices of paper 
+
+
+Wireframes
+its a simple sketch that shows the information needed in each page 
+its important because you can ensure all the information that is needed should be included at the page.
+
+getting your message across using design
+- we have to creat content relative t the page
+- prioritizing; by makeing partsof a the page look distinct 
+we can do that using a visual hirarchy.
+-orgnizing grouping together related content into blocks or chunks.
+
+Visual Hirarchy 
+Visual hierarchy refers to the order in which your eyes perceive what
+they see. It is created by adding visual contrast between the items being
+displayed. Items with higher contrast are recognized and processed first.
+most web users dont read entir pages,rather they skim to information we have to pay attention to:
+1. size 
+2. color
+3. style 
+
+
+<h2>Grouping and simiarity</h2> 
+to make a better design we should put related visual elements in groups.
+some of this grouping styles are(proximity,cloure,white space...etc)
+
+
   
 
 

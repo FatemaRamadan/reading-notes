@@ -13,10 +13,9 @@ read05 |[Javascripts loops and conditions](https://fatemaramadan.github.io/readi
 read06|[CSS and Functions](https://fatemaramadan.github.io/reading-notes/read06)
 
 # Code 201 Reading Notes
-name | link 
-- - - |- - - 
-Class01 | [Duckett HTML](https://fatemaramadan.github.io/reading-notes/class01.md)
-class |
+CLass Name|Link
+Class01 |[Duckett HTML](https://fatemaramadan.github.io/reading-notes/class01.md)
+class01|[DucketJavaScript](https://fatemaramadan.github.io/reading-notes/class001)
 class |
 class |
 class |
