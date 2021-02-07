@@ -14,7 +14,7 @@ Headings:
 ### supscript& superscripts 
 - `<sup>` its used to contain charechters that should be suoerscript such s suffix of dates or mathmatical concept.
 - `<sub>` its used with foot notes or chemichal formulas.
- ![example](read02.jpg)
+ ![example](201/read02.jpg)
 ### white space 
 - if the browser come across 2 or more spaces next to each other it displays one space.
 ### Line breaks & Horizantal rules 
@@ -57,7 +57,7 @@ Headings:
 - CSS works by associating rules with HTML elements. These rules govern
 how the content of specified elements should be displayed. A CSS rule
 contains two parts: a selector and a declaration 
-![declration of css style](read022.jpg)
+![declration of css style](201/read022.jpg)
 - CSS diclration is set in curly brackets and each is made of two parts : proparity and value 
 - using external CSS :
  * `<link>`its used to tell the browser wher to find the css file used in the page.
@@ -151,7 +151,7 @@ contains two parts: a selector and a declaration
 ## operators 
 1. assignment operators 
 2. Arithmatic operators 
-![Arithmatic Operators](read0222.jpg)
+![Arithmatic Operators](201/read0222.jpg)
 
 3. comparison operators 
 4. logical operators 
