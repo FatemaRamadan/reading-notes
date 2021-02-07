@@ -5,7 +5,7 @@
 
 name | link 
 - - - |- - - 
-read01 | [Mindset growth](https://fatemaramadan.github.io/reading-notes/read01.md)
+read01 | [Mindset growth](https://fatemaramadan.github.io/reading-notes/102/read01.md)
 read02 |[Git information](https://fatemaramadan.github.io/reading-notes/read02)
 read03 |[chapter18 summry](https://fatemaramadan.github.io/reading-notes/read03)
 read04 |[chapter1 Java Script](https://fatemaramadan.github.io/reading-notes/read04)
