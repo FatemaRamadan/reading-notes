@@ -18,7 +18,7 @@ name | link
 - - - |- - - 
 Read01 |[Duckett HTML+javascript](https://fatemaramadan.github.io/reading-notes/201/read1.md)
 Read02 |[Duckett HTML+javascript](https://fatemaramadan.github.io/reading-notes/201/read02.md)
-Read03 |[Duckett HTML+javascript](201/read03.md)
+Read03 |[Duckett HTML+javascript](https://fatemaramadan.github.io/reading-notes/201/read03.md)
 Read04 |[read](https://fatemaramadan.github.io/reading-notes/201/read04.md)
 Read05 |[read](https://fatemaramadan.github.io/reading-notes/201/read05.md)
 Read06 |[read](https://fatemaramadan.github.io/reading-notes/201/read06.md)
