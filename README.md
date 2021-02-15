@@ -23,7 +23,7 @@ Read04 |[HTML+JavaScrip+Pair Programming](https://fatemaramadan.github.io/readin
 Read05 |[Read05](201/read05.md)
 Read06 |[Read 06](https://fatemaramadan.github.io/reading-notes/201/read06.md)
 Read07 |[Read 07 article+JS+HTML](https://fatemaramadan.github.io/reading-notes/201/read07.md)
-Read08 |[readt](https://fatemaramadan.github.io/reading-notes/201/read08.md)
+Read08 |[Read 8 Layout](https://fatemaramadan.github.io/reading-notes/201/read08.md)
 Read09 |[read](https://fatemaramadan.github.io/reading-notes/201/read09.md)
 Read010 |[read](https://fatemaramadan.github.io/reading-notes/201/read10.md)
 Read011 |[read](https://fatemaramadan.github.io/reading-notes/201/read11.md)
