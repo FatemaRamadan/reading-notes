@@ -82,3 +82,13 @@
 in order to transfer the code and images from computer to a hosting company.
 
  
+## Article 
+- `<video> allow us to add embeded vedio
+- `<audio>` allow us to Embed audio in the page.
+- we use source src to set the location and type to determine the type .
+- HTMLMediaElementAPI it provides fetures that allow us to control vedio and audio programmaticly.
+- the vedio element conatins all proparites of the vedio we can put it in a seprate div so we can control its location on the page.
+- source can have 2 source to play vedio with all kind of of format.
+- we can control the appernace of the vedio settings using CSS like
+  *visibility and hidden **
+- we can control the vedio or audio using JS .and using theEventListner.
