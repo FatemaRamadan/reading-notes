@@ -28,6 +28,6 @@ Read09 |[Read 9 On forms and Events ](https://fatemaramadan.github.io/reading-no
 Read010 |[Read JS Error HAndling](https://fatemaramadan.github.io/reading-notes/201/read010.md)
 Read011 |[Read 11 about images and SE](https://fatemaramadan.github.io/reading-notes/201/read011.md)
 Read012 |[Read 12 Canvas](https://fatemaramadan.github.io/reading-notes/201/read012.md)
-Read013 |[read](https://fatemaramadan.github.io/reading-notes/201/read13.md)
-Read014 |[read](https://fatemaramadan.github.io/reading-notes/201/read14.md)
+Read013 |[Read 13 articl about storge](https://fatemaramadan.github.io/reading-notes/201/read13.md)
+Read014 |[Read 15 Google + animation](201/read14.md)
 Read015 |[read](https://fatemaramadan.github.io/reading-notes/201/read15.md)
