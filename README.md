@@ -37,7 +37,7 @@ Read015 |[read](https://fatemaramadan.github.io/reading-notes/201/read15.md)
 name | link 
 - - - |- - - 
 Read01 |[RWD and Floats](https://fatemaramadan.github.io/reading-notes/301/read01.md)
-Read02 |[]()
+Read02 |[jQuery and Pair programming](https://fatemaramadan.github.io/reading-notes/301/read02.md)
 Read03 |[]()
 Read04 |[]()
 Read05 |[]()
