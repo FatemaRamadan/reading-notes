@@ -1,0 +1,15 @@
+###What Google Learned From Its Quest to Build the Perfect Team
+Google created project Aristol in order to figure out the secret recipe for the perfect successful teams. using the people in Google as a search groups . they started to look for patterns in different groups and looking for similarities , but the problem was there where no common patterns and so .one of the searchers suggest using “group norms”; its traditions and behavioral standards and unwritten rules that controls how we function when we are together. people may behave differently as induvial, but in the groups norm it overrides individualism and encourage deference to the team. the conclusions was understanding and influencing the group norms were keys to improve Googles teams. researcher’s wanted to know if there a collective I.Q that emerge within a team the is distinct from the smarts of any single member and so they made had a group of 699 people and divided them , they gave them a set of tasks that require team cooperation. the observation that researches came to is that if team failed first task they will probably do the same in the second one ,vice versa. and the key of that result was how team members treated each other. But again not all teams appeared to behave the same. researchers found two behaviors that were common in good teams:
+
+-	first was that members spoke in the same proportion and took turns in leadership.
+-	the second one was that all team members had average social sensitivity. this is also reoffered to as psychological safety . Aristol searchers pointed particular norms of success regarding psychological safety. which is important for teams to success among other factors such as having clear goals and creating a cultural dependability. However the teams at Google had a problem in applying this method because most of them became Software Engineering b because they don’t want to talk about their feelings. so after a while when applying psychological safety and allowing team mates to participate and sense others feelings it helped a lot with the success of this team . Google found a way using Aristol experiment to make Its employee think of works as part of their lives, they don’t have to be separated people while at work.
+###REST
+-	REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
+-	HTTP Is the protocol the browser use to describe the location of something  online.
+-	URLS tells the browser that there is a concept somewhere and the ,the browser asks the web page to display a representation of the concept.
+-	API’s or web Service , when computers use the same protocols to send message back and forth to each other.
+-	The HTTP protocol is a general purpose protocol for applying verbs to nouns .
+-	Each system retrieve information from another using HTTPGET 
+-	If a system needs to add to a system it will use HTTP POST.
+-	If a system want to replace another system it uses HTTP PUT.
+-	If it wants to update it uses PATCH.
